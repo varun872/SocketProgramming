@@ -21,3 +21,6 @@ Instead of binding and listening it connects to the already existing server usin
 The client will need 2 threads to be running at the same time.
 - one to receive messages from server.
 - one to send the messages to the server.
+
+Output Screenshot:
+https://github.com/varun872/SocketProgramming/blob/e33d8c043728a156061c54e0e43b6ad00ef00ad8/Output.png
